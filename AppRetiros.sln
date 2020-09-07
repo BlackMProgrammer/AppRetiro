@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppRetiros", "AppRetiros\AppRetiros.csproj", "{C6C9E089-DCFE-4CD7-8F08-9916CC3F292D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C9E089-DCFE-4CD7-8F08-9916CC3F292D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C9E089-DCFE-4CD7-8F08-9916CC3F292D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C9E089-DCFE-4CD7-8F08-9916CC3F292D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C9E089-DCFE-4CD7-8F08-9916CC3F292D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E305570-35C2-4B23-870B-BF7F31A8EAFE}
+	EndGlobalSection
+EndGlobal
